@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on 🥸 - watch this space
+- 🌱 I’m currently learning React.js, Javascript, Typescript, MySQL
+- 📫 How to reach me: kyrak@missionreadyhq.com
+- 😄 Pronouns: she/her
+
 <!--
 **kyrakMissionReady/kyrakMissionReady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
